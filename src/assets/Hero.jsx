@@ -9,7 +9,7 @@ function Hero() {
 
                 <img src="/public/images/illustration-intro.png" alt="Illustration" />
 
-                <h1 className='text-3xl text-white w-[50%] text-center'>All your files in one secure location, accessible anywhere.</h1>
+                <h1 className='text-3xl text-white w-[50%] text-center'>All your files in one secure location,<br/> accessible anywhere.</h1>
 
                 <p className='text-white'> Fylo stores all your most important files in one secure location. Access them wherever 
                 you need, share and collaborate with friends family, and co-workers.</p>
