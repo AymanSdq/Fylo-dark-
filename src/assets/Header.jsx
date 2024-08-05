@@ -5,7 +5,7 @@ function Header() {
         
         <header className='w-full flex items-center justify-around py-12'>
             
-            <img src="/public/images/logo.svg" alt="Logo Pagee" className='w-[100px]' />
+            <img src="/images/logo.svg" alt="Logo Pagee" className='w-[100px]' />
 
             <menu className=' text-white flex gap-12'>
 
