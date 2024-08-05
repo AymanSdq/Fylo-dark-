@@ -3,6 +3,7 @@ import './App.css'
 import Header from './assets/Header'
 import Hero from './assets/Hero'
 import Access from './assets/Access'
+import Productiv from './assets/Productiv'
 
 function App() {
 
@@ -15,6 +16,8 @@ function App() {
             <Hero />
 
             <Access />
+
+            <Productiv />
 
         </main>
     </>
