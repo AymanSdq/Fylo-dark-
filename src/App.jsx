@@ -4,6 +4,7 @@ import Header from './assets/Header'
 import Hero from './assets/Hero'
 import Access from './assets/Access'
 import Productiv from './assets/Productiv'
+import Testemonial from './assets/Testemonial'
 
 function App() {
 
@@ -18,6 +19,8 @@ function App() {
             <Access />
 
             <Productiv />
+
+            <Testemonial />
 
         </main>
     </>
