@@ -1,9 +1,15 @@
 import React from 'react'
 
 function Footer() {
-  return (
-    <div>Footer</div>
-  )
+
+    return (
+        
+        <section className='w-full'>
+
+        </section>
+
+    )
+
 }
 
 export default Footer
