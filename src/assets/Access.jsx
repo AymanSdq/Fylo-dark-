@@ -6,11 +6,11 @@ function Access() {
     return (
 
 
-        <section className='hidden sm:flex w-full py-12 flex-col justify-center items-center gap-12 bg-darkBlueBg'>
+        <section className='flex w-full py-12 flex-col justify-center items-center gap-12 bg-darkBlueBg'>
             
-            <div className=' w-[80%] flex justify-around items-center '>
+            <div className=' w-[80%] flex max-sm:flex-col justify-around items-center '>
 
-                <div className='w-[450px] py-4 gap-4 flex flex-col justify-center items-center text-center px-4'>
+                <div className='sm:w-[450px] w-[350px] py-4 gap-4 flex flex-col justify-center items-center text-center px-4'>
 
                     <img className='w-24' src="/images/icon-access-anywhere.svg" alt="Access files" />
 
@@ -19,7 +19,7 @@ function Access() {
                     <p className='text-md text-white'>The ability to use a smartphone, tablet, or computer to access your account means your  files follow you everywhere.</p>
                 </div>
 
-                <div className='w-[450px] py-4 gap-4 flex flex-col justify-center items-center text-center px-4'>
+                <div className='sm:w-[450px] w-[350px] py-4 gap-4 flex flex-col justify-center items-center text-center px-4'>
 
                     <img src="/images/icon-security.svg" alt="Access files" />
 
@@ -30,9 +30,9 @@ function Access() {
 
             </div>
 
-            <div className=' w-[80%] flex justify-around items-center '>
+            <div className=' w-[80%] flex justify-around max-sm:flex-col items-center '>
 
-                <div className='w-[450px] py-4 gap-4 flex flex-col justify-center items-center text-center px-4'>
+                <div className='sm:w-[450px] w-[350px] py-4 gap-4 flex flex-col justify-center items-center text-center px-4'>
 
                     <img src="/images/icon-collaboration.svg" alt="Access files" />
 
@@ -41,7 +41,7 @@ function Access() {
                     <p className='text-md text-white'>Securely share files and folders with friends, family and colleagues for live collaboration.  No email attachments required.</p>
                 </div>
 
-                <div className='w-[450px] py-4 gap-4 flex flex-col justify-center items-center text-center px-4'>
+                <div className='sm:w-[450px] w-[350px] gap-4 flex flex-col justify-center items-center text-center px-4'>
 
                     <img src="/images/icon-any-file.svg" alt="Access files" />
 
