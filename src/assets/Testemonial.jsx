@@ -4,13 +4,13 @@ function Testemonial() {
 
     return (
         
-        <section className='hidden sm:flex w-full py-24 justify-center items-center bg-darkBlueBg'>
+        <section className='flex w-full py-24 justify-center items-center bg-darkBlueBg'>
             
-            <div className=' flex gap-10 justify-center items-center'>
+            <div className=' flex max-sm:flex-col gap-10 justify-center items-center'>
 
 
                 {/* The first profile */}
-                <div className='w-[400px]  bg-[#1c2230] rounded-sm relative px-6 py-8 text-white'>
+                <div className='sm:w-[400px] w-[350px]  bg-[#1c2230] rounded-sm relative px-6 py-8 text-white'>
                     <img src="/images/bg-quotes.png" alt="quotes" className='absolute  -top-[45px] -left-[10px]' />
 
                     <p className=''>Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has 
@@ -31,7 +31,7 @@ function Testemonial() {
 
 
                 {/* The second profile */}
-                <div className='w-[400px]  bg-[#1c2230] rounded-sm relative px-6 py-8 text-white'>
+                <div className='sm:w-[400px] w-[350px]  bg-[#1c2230] rounded-sm relative px-6 py-8 text-white'>
 
                     <p className=''>Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has 
                     become a well-oiled collaboration machine.</p>
@@ -52,7 +52,7 @@ function Testemonial() {
 
 
                 {/* The third profile */}
-                <div className='w-[400px]  bg-[#1c2230] rounded-sm relative px-6 py-8 text-white'>
+                <div className='sm:w-[400px] w-[350px]  bg-[#1c2230] rounded-sm relative px-6 py-8 text-white'>
                     
                     <p className=''>Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has 
                     become a well-oiled collaboration machine.</p>
