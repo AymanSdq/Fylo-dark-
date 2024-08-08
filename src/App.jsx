@@ -6,6 +6,7 @@ import Access from './assets/Access'
 import Productiv from './assets/Productiv'
 import Testemonial from './assets/Testemonial'
 import Footer from './assets/Footer'
+import NewsLetter from './assets/NewsLetter'
 
 function App() {
 
@@ -22,6 +23,8 @@ function App() {
             <Productiv />
 
             <Testemonial />
+
+            <NewsLetter />
 
             <Footer />
 
