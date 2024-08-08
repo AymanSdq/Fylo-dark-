@@ -4,7 +4,7 @@ function Footer() {
 
     return (
         
-        <section className='w-full flex justify-center items-center bg-darkBlueFooter pt-40 pb-20 '>
+        <section className='w-full hidden sm:flex justify-center items-center bg-darkBlueFooter pt-40 pb-20 '>
             
             <div className='w-full flex flex-col justify-start container gap-10'>
 

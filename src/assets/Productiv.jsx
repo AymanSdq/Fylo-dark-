@@ -4,7 +4,7 @@ function Productiv() {
 
     return (
         
-        <section className='w-full flex py-12 justify-center items-center bg-darkBlueBg'>
+        <section className='w-full hidden sm:flex py-12 justify-center items-center bg-darkBlueBg'>
             
             <div className='w-[80%] flex gap-6'>
 

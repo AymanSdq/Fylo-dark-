@@ -6,7 +6,7 @@ function Access() {
     return (
 
 
-        <section className='w-full py-12 flex flex-col justify-center items-center gap-12 bg-darkBlueBg'>
+        <section className='hidden sm:flex w-full py-12 flex-col justify-center items-center gap-12 bg-darkBlueBg'>
             
             <div className=' w-[80%] flex justify-around items-center '>
 

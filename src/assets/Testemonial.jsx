@@ -4,7 +4,7 @@ function Testemonial() {
 
     return (
         
-        <section className='flex w-full py-24 justify-center items-center bg-darkBlueBg'>
+        <section className='hidden sm:flex w-full py-24 justify-center items-center bg-darkBlueBg'>
             
             <div className=' flex gap-10 justify-center items-center'>
 

@@ -4,7 +4,7 @@ function NewsLetter() {
 
     return (
         
-        <section className='w-full flex justify-center items-center h-[184px] bg-darkBlueBg relative '>
+        <section className='w-full hidden sm:flex justify-center items-center h-[184px] bg-darkBlueBg relative '>
 
             <div className='w-[50%] py-10 px-8 gap-6 bg-[#1c2230] flex flex-col justify-center items-center absolute bottom-[-117px]'>
 
