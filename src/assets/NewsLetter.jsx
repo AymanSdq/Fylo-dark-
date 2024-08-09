@@ -13,7 +13,7 @@ function NewsLetter() {
                 <p className='text-white text-center'>It only takes a minute to sign up and our free starter tier is extremely generous. If you have any 
                 questions, our support team would be happy to help you.</p>
 
-                <div className='flex justify-center max-sm:flex-col w-full items-center gap-10'>
+                <div className='flex  justify-center max-sm:flex-col w-full items-center gap-10'>
                     
                     <input placeholder='example@example.com' className='py-2 px-4 rounded-full w-[100%] sm:w-[50%]' type="text" />
 
