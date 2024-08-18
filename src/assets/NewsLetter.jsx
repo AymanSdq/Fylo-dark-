@@ -35,6 +35,10 @@ function NewsLetter() {
                     <button className='py-2 px-4 rounded-full bg-colorBlue text-white w-[100%] sm:w-[30%]'>Get Started For Free</button>
                 </div>
 
+
+
+                
+
             </div>
             </div>
 
